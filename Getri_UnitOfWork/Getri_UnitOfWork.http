@@ -1,0 +1,6 @@
+@Getri_UnitOfWork_HostAddress = http://localhost:5161
+
+GET {{Getri_UnitOfWork_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
